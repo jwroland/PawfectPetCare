@@ -26,7 +26,7 @@ https://www.ozarktechwebdev.com/jacob/pawfect-pet-care/
 
 ## 📸 Screenshot
 
-images/screenshot.png
+screenshot.png
 
 ---
 
