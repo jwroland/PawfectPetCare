@@ -25,8 +25,7 @@ https://www.ozarktechwebdev.com/jacob/pawfect-pet-care/
 ---
 
 ## 📸 Screenshot
-
-screenshot.png
+![Screenshot of Pawfect Pet Care Homepage](images/screenshot.png)
 
 ---
 
